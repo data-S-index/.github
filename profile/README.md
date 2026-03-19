@@ -5,5 +5,7 @@ This is the GitHub organization of the NIH S-index Challenge team lead by Bhaves
 ## Links 🔗
 
 * [Overview of our S-index](https://github.com/data-S-index/overview) 📘
+* [Scholar Data](https://beta.scholardata.io) 🌐
+* [Scholar Data documentation](https://docs.scholardata.io) 📄
 * [Catalog of all resources](https://github.com/data-S-index/hub) 🗂️
 
